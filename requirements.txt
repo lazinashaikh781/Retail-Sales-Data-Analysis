@@ -1,0 +1,10 @@
+python
+data-analysis
+pandas
+matplotlib
+retail-sales
+data-science
+eda
+visualization
+machine-learning
+beginner-project
