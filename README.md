@@ -45,31 +45,8 @@ The dataset contains the following fields:
 
 ---
 
-## Project Structure
 
-Retail-Sales-Data-Analysis/
 
-├── data/
-
-│ └── retail_sales_dataset.csv
-
-├── images/
-
-│ ├── category_sales.png
-
-│ ├── monthly_sales.png
-
-│ └── gender_distribution.png
-
-├── real_world_project.py
-
-├── requirements.txt
-
-├── README.md
-
-└── .gitignore
-
----
 
 ## Analysis Performed
 
@@ -108,19 +85,5 @@ Retail-Sales-Data-Analysis/
 
 The project provides valuable insights into customer behavior and sales performance, helping businesses make informed decisions regarding inventory management, marketing strategies, and customer targeting.
 
----
 
-## Future Improvements
 
-* Sales forecasting using Machine Learning
-* Customer segmentation
-* Recommendation system
-* Interactive dashboard using Power BI or Tableau
-
----
-
-## Author
-
-Computer Engineering Student
-
-Data Science & Analytics Project
